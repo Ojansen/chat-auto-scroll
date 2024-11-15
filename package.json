@@ -1,0 +1,16 @@
+{
+  "name": "chat-auto-scroll",
+  "version": "1.0.0",
+  "description": "A custom web component for automatic scrolling in chat interfaces.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "web-component",
+    "chat",
+    "auto-scroll",
+    "scrolling",
+    "custom-element"
+  ],
+  "author": "Obe Jansen",
+  "license": "ISC"
+}
